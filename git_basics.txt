@@ -27,3 +27,9 @@ This is the 5TH and last addition from the local machine
 
 *********
 
+This is the THIRD and last addtion to the file from the remote repo
+
+**********
+
+THE END
+
