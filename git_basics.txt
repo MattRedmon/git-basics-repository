@@ -10,3 +10,7 @@ This is the 2ND addition to this file from my local machine
 This is the 3RD addition to this file from my local machine
 
 **********
+
+This is the FIRST addition to this file from the remote repo
+
+**********
